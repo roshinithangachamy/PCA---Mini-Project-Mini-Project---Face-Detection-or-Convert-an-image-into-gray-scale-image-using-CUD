@@ -76,14 +76,17 @@ cv2.destroyAllWindows()
 ```
 ## OUTPUT:
 
-Input Image
+###### Input Image
+
+
 <img width="451" height="680" alt="rose" src="https://github.com/user-attachments/assets/87943939-ac13-469c-883f-939f57b5fae8" />
 
 
 
-Grayscale Image
-<img width="205" height="284" alt="image" src="https://github.com/user-attachments/assets/b0ff94a2-e2d3-4fe4-b87c-d37df2f238a5" />
+###### Grayscale Image
 
+
+<img width="451" height="680" alt="image" src="https://github.com/user-attachments/assets/d27bde99-2694-4b5b-930c-f71df08abfe3" />
 
 
 ## Result:
